@@ -57,7 +57,7 @@ Aqui estão alguns projetos em que trabalhei:
 ## Como me contatar
 
 - E-mail: ronieremarques55@gmail.com
-- Site: https://ronieremarques.blogs-tutorials.com
+- Site: https://empreendedo.com/RoniereMarques
 
 ## Vamos nos conectar
 

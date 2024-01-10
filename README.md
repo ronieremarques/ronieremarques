@@ -30,10 +30,10 @@
 > ```
 Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, sou desenvolvedor Full Stacks e adoro trabalhar em projetos desafiadores.
 
-- 🔭 Atualmente estou trabalhando em [ProSales](https://prosales.blogs-tutorials.com/) é [IA - Escritor automático](https://propostens.blogs-tutorials.com/)
+- 🔭 Atualmente estou trabalhando em [ProSales](https://prosales.empreendedo.com/) é [IA - Escritor automático](https://autoarticles.empreendedo.com/)
 - 🌱 Estou aprendendo mais sobre Marketing de Conteúdo
 - 💬 Pergunte-me sobre Programação
-- 📫 Como me encontrar: ronieremarques55@gmail.com ou https://blogs-tutorials.com
+- 📫 Como me encontrar: ronieremarques55@gmail.com ou https://empreendedo.com
 
 ## Habilidades
 
@@ -50,20 +50,19 @@ Aqui estão algumas das tecnologias e habilidades em que sou experiente:
 
 Aqui estão alguns projetos em que trabalhei:
 
-- [ProSales](https://prosales.blogs-tutorials.com/)
-- [Blogs Tutorials](https://blogs-tutorials.com/)
-- [API REST](https://prosales.blogs-tutorials.com/api2)
-- [IA - Escritor automático](https://propostens.blogs-tutorials.com/)
+- [ProSales](https://prosales.empreendedo.com/)
+- [Blog](https://empreendedo.com/)
+- [API REST](https://prosales.empreendedo.com/api2)
+- [IA - Escritor automático](https://autoarticles.empreendedo.com/)
 ## Como me contatar
 
 - E-mail: ronieremarques55@gmail.com
-- Site: https://empreendedo.com/RoniereMarques
+- Portfolio: https://empreendedo.com/RoniereMarques
 
 ## Vamos nos conectar
 
 - Discord: ronieremarques
-- WhatsApp: +55 (11) 91677-1471
-- Telefone: +55 (11) 91677-1471
+- WhatsApp: +62 857-0718-9105
 - YouTube: https://www.youtube.com/@ronieremarques
 - Instagram: @roniereemarques
 

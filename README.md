@@ -2,9 +2,6 @@
 > [!IMPORTANT]  
 > Programar é como desenhar o futuro com linhas de código, onde cada bug é apenas uma oportunidade de aperfeiçoamento e cada desafio é um degrau mais alto em direção ao seu potencial ilimitado.
 
-> [!NOTE]
-> Hackers e programadores têm habilidades técnicas semelhantes, mas a diferença fundamental está no uso ético dessas habilidades: os programadores constroem o futuro, enquanto os hackers devem fazê-lo dentro dos limites legais.
-
 > 🤗 - **Bem-Vindo(a)**
 >
 > Ao meu perfil do GitHub, aqui eu posto alguns dos meus códigos para vocês poderem pegar exemplos ou até mesmo edita-lós de acordo com oque vocês estão criando ai na máquina de vocês :D

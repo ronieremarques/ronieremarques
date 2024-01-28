@@ -24,6 +24,6 @@ Aqui estão algumas das tecnologias e habilidades em que sou experiente:
 
 ## Como me contatar
 
-- WhatsApp: +62 857-0718-9105 [Link](https://wa.me/6285707189105)
+- [WhatsApp](https://wa.me/6285707189105): +62 857-0718-9105
 
 Fique à vontade para me contatar para conversarmos sobre tecnologia, projetos interessantes ou apenas para trocar algumas ideias. Estou sempre disposto a colaborar e aprender com outras pessoas!

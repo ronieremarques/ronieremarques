@@ -22,14 +22,6 @@ Aqui estão algumas das tecnologias e habilidades em que sou experiente:
 - Ferramentas de desenvolvimento: Git, VSCode, GitHub.
 - Outras habilidades: Marketing Digital, Hacking, Marketing de Conteúdo, Designer Web.
 
-## Projetos
-
-Aqui estão alguns projetos em que trabalhei:
-
-- [ProSales](https://prosales.empreendedo.com/)
-- [Blog](https://empreendedo.com/)
-- [API REST](https://prosales.empreendedo.com/api2)
-- [IA - Escritor automático](https://autoarticles.empreendedo.com/)
 ## Como me contatar
 
 - E-mail: ronieremarques55@gmail.com

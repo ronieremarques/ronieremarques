@@ -24,14 +24,6 @@ Aqui estão algumas das tecnologias e habilidades em que sou experiente:
 
 ## Como me contatar
 
-- E-mail: ronieremarques55@gmail.com
-- Portfolio: https://empreendedo.com/RoniereMarques
-
-## Vamos nos conectar
-
-- Discord: ronieremarques
 - WhatsApp: +62 857-0718-9105
-- YouTube: https://www.youtube.com/@ronieremarques
-- Instagram: @roniereemarques
 
 Fique à vontade para me contatar para conversarmos sobre tecnologia, projetos interessantes ou apenas para trocar algumas ideias. Estou sempre disposto a colaborar e aprender com outras pessoas!

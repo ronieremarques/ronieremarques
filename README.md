@@ -1,9 +1,4 @@
 # Olá, eu sou BrightFail 👋
-> [!IMPORTANT]  
-> Programar é como desenhar o futuro com linhas de código, onde cada bug é apenas uma oportunidade de aperfeiçoamento e cada desafio é um degrau mais alto em direção ao seu potencial ilimitado.
-> ```js
-> console.log("Hello World!");
-> ```
 Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, sou desenvolvedor Full Stacks e adoro trabalhar em projetos desafiadores.
 
 - 🔭 Atualmente estou trabalhando em [ProSales](https://prosales.empreendedo.com/) é [IA - Escritor automático](https://autoarticles.empreendedo.com/)

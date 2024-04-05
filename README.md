@@ -6,4 +6,4 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, sou des
 
 **My domínio**: www.empreendedo.com
 
-**Project I'm working on**: https://prosales.empreendedo.com
+**Project I'm working on**: https://www.empreendedo.com/prosales

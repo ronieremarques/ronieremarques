@@ -10,6 +10,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, sou des
 Apaixonado completamente por **Lua**!🦠
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,github,nodejs,html,css,js,mongodb,mysql,git,firebase,linux,kali,windows" />
+    <img src="https://skillicons.dev/icons?i=lua,github,nodejs,html,css,js,mongodb,mysql,git,firebase,linux,kali,windows" /></br></br>
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ronieremarques"></img>
   </a>
 </p>

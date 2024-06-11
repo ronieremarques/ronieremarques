@@ -17,3 +17,4 @@ Apaixonado completamente por **Lua**!🦠
 console.log("Hello, world!");
 // Passei 2 horas criando esse código [;
 ```
+I love my friend ChatGpt! ❤🤖🤣

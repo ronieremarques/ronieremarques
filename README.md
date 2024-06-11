@@ -13,4 +13,4 @@ Apaixonado completamente por **Lua**!🦠
     <img src="https://skillicons.dev/icons?i=lua,github,nodejs,html,css,js,mongodb,mysql,git,firebase,linux,kali,windows,go" /></br></br>
   </a>
 
-![Instalando paciencia, aguarde...](https://i.pinimg.com/originals/e1/cf/5c/e1cf5ce61b6d5a8d06a979ab63d3faaa.gif)
+

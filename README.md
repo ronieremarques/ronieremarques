@@ -17,4 +17,4 @@ Apaixonado completamente por **Lua**!🦠
 console.log("Hello, world!");
 // Passei 2 horas criando esse código [;
 ```
-I love my friend ChatGpt! ❤🤖🤣
+I love my friend ChatGpt, no one is pure, I'm with gpt 4, artificial intelligence, better friend of a developer. It was never luck, it was always gpt4! 🤖

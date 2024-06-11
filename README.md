@@ -13,5 +13,7 @@ Apaixonado completamente por **Lua**!🦠
     <img src="https://skillicons.dev/icons?i=lua,github,nodejs,html,css,js,mongodb,mysql,git,firebase,linux,kali,windows,go" /></br></br>
   </a>
 ```js
+// created by chatgpt 3.5 - chat.openai.com
 console.log("Hello, world!");
+// Passei 2 horas criando esse código [;
 ```

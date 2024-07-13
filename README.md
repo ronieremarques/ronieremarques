@@ -1,5 +1,5 @@
 > [!WARNING]  
-> Meios de contato(E-mail): ronieremarques55@gmail.com ou whatsapp: https://wa.me/5511916771471, aguarde um pouco possar ser que eu não possa responder no momento.
+> Meios de contato(WhatsApp): https://wa.me/5511916771471, aguarde um pouco possar ser que eu não possa responder no momento.
 # Hi, I am roniere marques 👋
 Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, sou desenvolvedor Full Stacks e adoro trabalhar em projetos desafiadores. It's as if a skilled programmer was able to build not only robust codes, but also designed his own defense system, transforming programming into an art of digital security.
 

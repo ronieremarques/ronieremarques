@@ -12,7 +12,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, sou des
 Apaixonado completamente por **Lua**!🦠
 <br/><br/>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,github,nodejs,html,css,js,mongodb,mysql,git,firebase,linux,discordjs,windows,python" /></br></br>
+    <img src="https://skillicons.dev/icons?i=lua,nodejs,html,css,js,python,mongodb,mysql,firebase,github,git,linux,windows,bots" /></br></br>
   </a>
 ```js
 // created by chatgpt 3.5 - chat.openai.com

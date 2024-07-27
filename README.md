@@ -22,10 +22,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a target="_bank" href="https://linkedin.com/in/roniere-marques-172b612a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roniere-marques-172b612a9" height="30" width="40" /></a>
+  <a target="_bank" href="https://instagram.com/ronieremarque" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/62-instagram-512.png" height="40" width="40" alt="ronieremarque" /></a>
 <a target="_bank" href="https://twitter.com/ronieremarques" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronieremarques" height="30" width="40" /></a>
-<a target="_bank" href="https://linkedin.com/in/roniere-marques-172b612a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roniere-marques-172b612a9" height="30" width="40" /></a>
-<a target="_bank" href="https://instagram.com/ronieremarque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronieremarque" height="30" width="40" /></a>
-<a target="_bank" href="https://www.youtube.com/c/ronieremarques" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ronieremarques" height="30" width="40" /></a>
+<a target="_bank" href="https://www.youtube.com/c/ronieremarques" target="blank"><img align="center" src="https://github.com/user-attachments/assets/7a939a6c-300d-4cf8-a0f3-c70fff5ea4ca" alt="ronieremarques" height="30" width="40" /></a>
 </p>
 
 <br/><br/>

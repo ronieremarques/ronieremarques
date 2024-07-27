@@ -1,17 +1,35 @@
-> [!WARNING]  
-> contact-me: [whatsApp of contact](https://wa.me/5511916771471).
-# Hi, I am roniere marques 👋
-Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, sou desenvolvedor Full Stacks e adoro trabalhar em projetos desafiadores. It's as if a skilled programmer was able to build not only robust codes, but also designed his own defense system, transforming programming into an art of digital security.
+<h1 align="left">Hi 👋, I'm ronieremarques</h1>
+<h3 align="left">A passionate fullstacks developer from brazil</h3>
+<img align="right" src="https://static-00.iconduck.com/assets.00/coding-illustration-2048x1365-yefj2c5b.png" width="400" autoplay>
 
-**Será que não sou um código hospedado em uma VPS?**
+- 🔭 I’m currently working on [BlogNetworks](https://github.com/blognetworks)
 
+- 🌱 I’m currently learning **Aggressive Marketing**
 
-**website**: www.empreendedo.com meu blog. 😉💻
+- 👯 I’m collaborate on with [BlogNetworks](https://github.com/blognetworks)
 
-**project I'm working on**: www.empreendedo.com/prosales
-Apaixonado completamente por **Lua**!🦠
+- 👨‍💻 All of my projects are available at [https://ronieremarques.github.io](https://ronieremarques.github.io)
+
+- 📝 I regularly write articles on [https://empreendedo.com](https://empreendedo.com)
+
+- 💬 Ask me about **NodeJS**
+
+- 📫 How to reach me **ronieremarques55@gmail.com**
+
+- 📄 Know about my experiences [https://ronieremarques.github.io/public/curriculo.pdf](https://ronieremarques.github.io/public/curriculo.pdf)
+
+- ⚡ Fun fact **I'm hacker**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ronieremarques" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ronieremarques" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roniere-marques-172b612a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roniere-marques-172b612a9" height="30" width="40" /></a>
+<a href="https://instagram.com/ronieremarque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ronieremarque" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ronieremarques" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ronieremarques" height="30" width="40" /></a>
+</p>
+
 <br/><br/>
-  <a href="https://skillicons.dev">
+  <a align="center" href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=lua,nodejs,html,css,js,python,mongodb,mysql,firebase,github,git,linux,windows,bots" /></br></br>
   </a>
 ```js

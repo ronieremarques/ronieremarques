@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm ronieremarques</h1>
 <h3 align="left">A passionate fullstacks developer from brazil</h3>
-<img align="right" src="https://static-00.iconduck.com/assets.00/coding-illustration-2048x1365-yefj2c5b.png" width="400" autoplay>
+<img align="right" src="https://github.com/user-attachments/assets/5ccdf0f4-7a4b-440e-8692-8408ec57fd78" width="400" autoplay>
 
 - 🔭 I’m currently working on [BlogNetworks](https://github.com/blognetworks)
 
@@ -30,7 +30,7 @@
 
 <br/><br/>
   <a align="center" href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,nodejs,html,css,js,python,mongodb,mysql,firebase,github,git,linux,windows,bots" /></br></br>
+    <img src="https://skillicons.dev/icons?i=lua,nodejs,html,css,js,python,mongodb,mysql,firebase,github,git,linux,windows" /></br></br>
   </a>
 ```js
 // created by chatgpt 3.5 - chat.openai.com

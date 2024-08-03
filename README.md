@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm ronieremarques</h1>
 <h3 align="left">A passionate fullstacks developer from brazil</h3>
-<img align="right" src="https://github.com/user-attachments/assets/5ccdf0f4-7a4b-440e-8692-8408ec57fd78" width="400" autoplay>
+<img align="right" src="https://github.com/user-attachments/assets/dfaaac15-a1f9-4f5b-95f6-161333e2e202" width="400" autoplay>
 
 - 🔭 I’m currently working on [BlogNetworks](https://github.com/blognetworks)
 

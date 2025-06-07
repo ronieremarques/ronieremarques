@@ -1,4 +1,3 @@
-<a href="#"><img align="left" src="https://i.ibb.co/gZBBw4XW/53311459-8717-407b-8d0a-e7b2384b20c1.png" width="230"/> 
 ```lua
 @GitHub/ronieremarques
 ------------>

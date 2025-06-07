@@ -1,4 +1,4 @@
-<a href="#"><img align="left" src="https://avatars.githubusercontent.com/u/178500256?v=4" width="230" style="border-radius: 50%; border: 2px solid #fff;"/> 
+<a href="#"><img align="left" src="https://i.ibb.co/gZBBw4XW/53311459-8717-407b-8d0a-e7b2384b20c1.png" width="230"/> 
 ```lua
 @GitHub/ronieremarques
 ------------>
@@ -10,16 +10,10 @@ Outros: HTML, CSS, XML
 Hobbies: Programação, Photoshop, Premiere Pro, After Effects
 ```
 
-<div align="center"> 
-  <a href="https://www.youtube.com/@ronieremarques-u4b" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/ronieremarquesz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ronieremarques55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ronieremarques" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 ##
 
-### Linguagens de Programação
+### Languages
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="36" alt="typescript logo"  />
   <img width="6" />
@@ -48,7 +42,7 @@ Hobbies: Programação, Photoshop, Premiere Pro, After Effects
   <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo"  />
 </div>
 
-### Ferramentas de Desenvolvimento
+### Development Tools
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="36" alt="vscode logo"  />
   <img width="6" />
@@ -59,7 +53,7 @@ Hobbies: Programação, Photoshop, Premiere Pro, After Effects
   <img src="https://skillicons.dev/icons?i=linux" height="36" alt="linux logo"  />
 </div>
 
-### Design & Criatividade
+### Design & Creativity
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma" height="36" alt="figma logo"  />
   <img width="6" />
@@ -68,4 +62,14 @@ Hobbies: Programação, Photoshop, Premiere Pro, After Effects
   <img src="https://skillicons.dev/icons?i=pr" height="36" alt="adobepremiere logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=ae" height="36" alt="aftereffects logo"  />
+</div>
+
+#
+
+<div> 
+  <a href="https://www.youtube.com/@ronieremarques-u4b" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ronieremarquesz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ronieremarques55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ronieremarques" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>

@@ -1,4 +1,3 @@
-<a href="#"><img align="left" src="https://i.ibb.co/bg08YdCb/Sem-T-tulo-1.png" width="230"/> 
 ```lua
 @GitHub/ronieremarques
 ------------>

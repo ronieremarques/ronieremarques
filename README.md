@@ -1,4 +1,4 @@
-<a href="#"><img align="left" src="https://cdn1.iconfinder.com/data/icons/social-black-buttons/512/anonymous-512.png" width="230"/> 
+<a href="#"><img align="left" src="https://i.ibb.co/bg08YdCb/Sem-T-tulo-1.png" width="230"/> 
 ```lua
 @GitHub/ronieremarques
 ------------>

@@ -29,6 +29,10 @@ Hobbies: Programação, Photoshop, Premiere Pro, After Effects
   <img src="https://skillicons.dev/icons?i=py" height="36" alt="python logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=lua" height="36" alt="lua logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=php" height="36" alt="php logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=go" height="36" alt="go logo" />
 </div>
 
 ### Frontend
@@ -51,6 +55,10 @@ Hobbies: Programação, Photoshop, Premiere Pro, After Effects
   <img src="https://skillicons.dev/icons?i=mongodb" height="36" alt="mongodb logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=mysql" height="36" alt="mysql logo"  />
+  <img width="6" />
+  <img width="6" /> <img src="https://skillicons.dev/icons?i=postgres" height="36" alt="postgresql logo" />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="36" alt="google cloud logo" />
 </div>
 
 ### Development Tools

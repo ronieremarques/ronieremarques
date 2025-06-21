@@ -3,10 +3,7 @@
 ------------>
 Pronomes: Ele/Dele
 Localização: Brasil, SP
-Aprendendo: Marketing
-Linguagens: Python, Lua, PHP, C#, Go, JavaScript
-Outros: HTML, CSS, XML
-Hobbies: Programação, Photoshop, Premiere Pro, After Effects
+Hobbies: Photoshop, Premiere Pro, After Effects
 ```
 
 
